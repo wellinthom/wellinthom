@@ -1,6 +1,6 @@
-<H1 style="font-color:red"><img src="https://readme-typing-svg.herokuapp.com/?lines=Seja+Bem-vindo+ao+meu+GitHub👋&center=true&width=360&height=30"></h1>
- 
-#### <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 🐙 Me chamo <b>Wellingthon</b>, e já trabalho a algum tempo com programação e tive a oportunidade de conhecer diversas tecnologias durante minha jornada!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+Bem-vindo+ao+meu+GitHub👋&center=true&width=360&height=30+:%29)](https://git.io/typing-svg)
+
+#### <img src="https://raw.githubusercontent.com/wellinthom/wellinthom/refs/heads/main/assets/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 🐙 Me chamo <b>Wellingthon</b>, e já trabalho a algum tempo com programação e tive a oportunidade de conhecer diversas tecnologias durante minha jornada!
 
 Da crianção de landingpage com php, js, html a microserviços com uso de Apis Rest e Kafka.
 
@@ -14,7 +14,7 @@ Da crianção de landingpage com php, js, html a microserviços com uso de Apis 
 
   [![My Skills](https://skillicons.dev/icons?i=mysql,kafka,redis,linux,aws)](https://skillicons.dev)
 
-- ### Ferramentas que utlizo no desenvolvimento:
+- ### Ferramentas que utilizo no desenvolvimento:
 
   [![My Skills](https://skillicons.dev/icons?i=docker,postman,sublime,vscode,eclipse,idea)](https://skillicons.dev)
 
