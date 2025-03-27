@@ -18,7 +18,7 @@ Da crianção de landingpage com php, js, html a microserviços com uso de Apis 
 
   [![My Skills](https://skillicons.dev/icons?i=docker,postman,sublime,vscode,eclipse,idea)](https://skillicons.dev)
 
-- ### Tive Experiencias em:
+- ### Tive experiências em:
   [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,wordpress)](https://skillicons.dev)
 
 ### Sobre mim!
