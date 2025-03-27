@@ -1,10 +1,10 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Seja+Bem-vindo+ao+meu+GitHub👋&center=true&width=360&height=30+:%29)](https://git.io/typing-svg)
 
-#### <img src="https://raw.githubusercontent.com/wellinthom/wellinthom/refs/heads/main/assets/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 🐙 Me chamo <b>Wellingthon</b>, e já trabalho a algum tempo com programação e tive a oportunidade de conhecer diversas tecnologias durante minha jornada!
+#### <img src="https://raw.githubusercontent.com/wellinthom/wellinthom/refs/heads/main/assets/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right"> 🐙 Me chamo Wellingthon e já trabalho há algum tempo com programação. Durante minha jornada, tive a oportunidade de conhecer diversas tecnologias!
 
-Da crianção de landingpage com php, js, html a microserviços com uso de Apis Rest e Kafka.
+Da criação de landing pages com PHP, JavaScript e HTML até o desenvolvimento de microsserviços utilizando APIs REST e Kafka.
 
-#### Atualmente ajudo na gestão e desenvovimento de projetos comerciais e internos, e envovido no planejamento e organização dos times de desenvolvimento.
+#### Atualmente, ajudo na gestão e desenvolvimento de projetos comerciais e internos, estando envolvido no planejamento e na organização dos times de desenvolvimento.
 
 - ### Atualmente estou mais envolvido com:
 
@@ -18,12 +18,12 @@ Da crianção de landingpage com php, js, html a microserviços com uso de Apis 
 
   [![My Skills](https://skillicons.dev/icons?i=docker,postman,sublime,vscode,eclipse,idea)](https://skillicons.dev)
 
-- ### Tive experiências em:
+- ### Tive Experiencias em:
   [![My Skills](https://skillicons.dev/icons?i=php,js,html,css,wordpress)](https://skillicons.dev)
 
 ### Sobre mim!
 
-#### Gosto de conhecer novas tecnologias e sempre estou buscando me atualizar e aperfeiçoar os meus conhecimentos! Faço o uso de café constantemente e bash script as vezes.
+#### Gosto de conhecer novas tecnologias e estou sempre em busca de atualização e aperfeiçoamento. Faço o uso de café regularmente e, ocasionalmente, Bash scripts.
 
 - ### Meus perfils
 
